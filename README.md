@@ -1,26 +1,11 @@
-# Examples, lifehacks, case studies
+# Awesome PSPDFKit
 
-This place shall collect all examples of using PSPDFKit products.
+The PDF SDK Developers Trust.
 
-## Disclaimer
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-The examples are not supported. They may stop working, and be not repaired -- and still serve for inspiration.
+This repository contains examples built with PSPDFKit. These examples are not officially supported. They may stop working, they may not repaired -- and still serve for inspiration.
 
-## Guidelines
+## Web
 
-* Remove all customer information
-* If in doubt, put here
-* The ultimate goal is to make it public
-
-### Naming
-
-Directory structure is TBC.
-
-Every example should be somewhere in the tree, in a separate directory, beginning with:
-
-```
-YYYY.MM.dd-<name>-<thing>
-```
-
-For example: `2025.12.31-patrik-example-how-to-fix-all`.
-
+- [Signing Demo](https://github.com/PSPDFKit/signing-demo) Demonstrated how to build a signing flow with PSPDFKit

@@ -1,0 +1,13 @@
+# Awesome PSPDFKit
+
+The PDF SDK Developers Trust.
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+This repository contains examples built with PSPDFKit. These examples are not officially supported. They may stop working, they may not be repaired -- and still serve for inspiration.
+
+## Web
+
+### Signing
+
+- [Disable Editing a Signature After Creation](https://pspdfkit.com/playground?p=eyJ2IjoxLCJzZXR0aW5ncyI6eyJmaWxlTmFtZSI6ImZvcm0ucGRmIiwiand0Ijp7InBlcm1pc3Npb25zIjpbInJlYWQtZG9jdW1lbnQiLCJ3cml0ZSJdLCJ1c2VySWQiOiJyYW5kb21sRTFRdTBjN2NUIiwibGF5ZXIiOiJyYW5kb21rUWdTNGo4SnJIIn19LCJqcyI6IlBTUERGS2l0LmxvYWQoey4uLmJhc2VPcHRpb25zLHRoZW1lOlBTUERGS2l0LlRoZW1lLkRBUkssaXNFZGl0YWJsZUFubm90YXRpb246ZnVuY3Rpb24oYW5ub3RhdGlvbil7XG4vLyBDaGVjayBpZiB0aGUgYW5ub3RhdGlvbiBpcyBhIHNpZ25hdHVyZVxucmV0dXJuIWFubm90YXRpb24uaXNTaWduYXR1cmV9fSkudGhlbigoaW5zdGFuY2U9Pntjb25zb2xlLmxvZygnUFNQREZLaXQgbG9hZGVkIScpLGNvbnNvbGUubG9nKCdBUEkgZG9jczogaHR0cHM6Ly9wc3BkZmtpdC5jb20vYXBpL3dlYi8nKSxjb25zb2xlLmxvZygnR3VpZGVzOiBodHRwczovL3BzcGRma2l0LmNvbS9ndWlkZXMvd2ViLycpfSkpOyJ9)

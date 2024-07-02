@@ -3,6 +3,7 @@
 The PDF SDK Developers Trust.
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Chat](https://img.shields.io/badge/chat-on_discord-7289da.svg)](https://discord.gg/9MyxdetU)
 
 This repository contains examples built with PSPDFKit. These examples are not officially supported. They may stop working, they may not be repaired -- and still serve for inspiration. Read [the disclaimer](https://github.com/PSPDFKit/awesome-pspdfkit/blob/master/DISCLAIMER.md) or [reach out if you have questions](https://support.pspdfkit.com/hc/en-us/requests/new).
 

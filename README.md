@@ -4,7 +4,7 @@ The PDF SDK Developers Trust.
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-This repository contains examples built with PSPDFKit. These examples are not officially supported. They may stop working, they may not be repaired -- and still serve for inspiration. Read [the disclaimer](https://github.com/PSPDFKit/awesome-pspdfkit/blob/master/DISCLAIMER.md) for legalese details or [reach out if you have questions](https://support.pspdfkit.com/hc/en-us/requests/new).
+This repository contains examples built with PSPDFKit. These examples are not officially supported. They may stop working, they may not be repaired -- and still serve for inspiration. Read [the disclaimer](https://github.com/PSPDFKit/awesome-pspdfkit/blob/master/DISCLAIMER.md) or [reach out if you have questions](https://support.pspdfkit.com/hc/en-us/requests/new).
 
 ## Web
 

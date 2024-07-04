@@ -51,7 +51,7 @@ export default function PdfViewerComponent(props) {
               boundingBox: PSPDFKit.Geometry.Rect.union(result.rectsOnPage),
             });
           });
-          //instance.create(annotations);
+          instance.create(annotations);
         } else {
           console.log("No text is selected");
         }

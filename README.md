@@ -9,7 +9,7 @@ This repository contains examples built with PSPDFKit. These examples are not of
 
 ## Web
 
-- [Example Catalog](https://github.com/PSPDFKit/pspdfkit-web-examples-catalog) - A wide variety of examples what PSPDFKit for Web can do. You can also [try it online](https://web-examples.pspdfkit.com/).
+- [Example Catalog](https://github.com/PSPDFKit/pspdfkit-web-examples-catalog) - A wide variety of examples what PSPDFKit for Web can do. You can also [try it online](https://web-examples.services.demo.pspdfkit.com/).
 - [React Example](https://github.com/PSPDFKit/pspdfkit-web-example-react)
 - [Angular Example](https://github.com/PSPDFKit/pspdfkit-web-example-angular)
 - [Next.js Example](https://github.com/PSPDFKit/pspdfkit-web-example-nextjs)

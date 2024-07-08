@@ -1,6 +1,6 @@
 # Awesome PSPDFKit
 
-The PDF SDK Developers Trust.
+![The PDF SDK Developers Trust](./resources/header.png)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Chat](https://img.shields.io/badge/chat-on_discord-7289da.svg)](https://discord.gg/9MyxdetU)

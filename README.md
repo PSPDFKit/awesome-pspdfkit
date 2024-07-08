@@ -9,7 +9,26 @@ This repository contains examples built with PSPDFKit. These examples are not of
 
 ## Web
 
-- [Example Catalog](https://github.com/PSPDFKit/pspdfkit-web-examples-catalog) - A wide variety of examples what PSPDFKit for Web can do. You can also [try it online](https://web-examples.services.demo.pspdfkit.com/).
+- [Example Catalog](https://github.com/PSPDFKit/pspdfkit-web-examples-catalog) - A wide variety of examples what PSPDFKit for Web can do.
+  - **Electronic Signatures:** Use our API to add electronic signature images to PDFs.
+  - **Watermarks:** Add custom content (like images, text, and logos) as watermarks to your PDF pages.
+  - **Image Annotations:** Annotate images with PSPDFKit for Web.
+  - **Custom UI for Annotations:** Create a fully customized UI for working with annotations.
+  - **Custom Annotation Permissions:** Define custom permissions for annotation types.
+  - **Custom Annotation Tools:** Add your own tools or actions when an annotation is selected.
+  - **Custom Toolbar Tools:** Add custom tools to the PDF toolbar.
+  - **PDF Page Manipulation:** Add, remove, reorder, or rotate pages in a PDF.
+  - **Advanced PDF Search:** Modify PDF search behavior.
+  - **Custom Overlays:** Extend PDFs by adding your own elements to pages.
+  - **Selective Area Revealing:** Allow users to hide/reveal areas on a PDF page.
+  - **HTML-Based Annotation Customization:** Enhance or replace existing PDF annotations using custom HTML.
+  - **Dark Mode:** Switch to dark mode programmatically.
+  - **Custom Views and Drag-and-Drop:** Add custom views for dragging and dropping image elements.
+  - **Document Editor Customization:** Customize the document editor toolbar and footer items.
+  - **Page Flip Effect:** Create a magazine-like browsing experience.
+  - **Permissions Enforcement:** Set permissions based on JSON Web Token (JWT) parameters.
+  - **Electronic Signatures Persistence:** Keep electronic signatures across page refreshes.
+  - [Try it online!](https://web-examples.services.demo.pspdfkit.com/)
 - [React Example](https://github.com/PSPDFKit/pspdfkit-web-example-react)
 - [Angular Example](https://github.com/PSPDFKit/pspdfkit-web-example-angular)
 - [Next.js Example](https://github.com/PSPDFKit/pspdfkit-web-example-nextjs)

@@ -9,29 +9,30 @@ This repository contains examples built with PSPDFKit. These examples are not of
 
 ## Web
 
-- [Example Catalog](https://github.com/PSPDFKit/pspdfkit-web-examples-catalog) - A wide variety of examples what PSPDFKit for Web can do.
-  - **Electronic Signatures:** Use our API to add electronic signature images to PDFs.
-  - **Watermarks:** Add custom content (like images, text, and logos) as watermarks to your PDF pages.
-  - **Image Annotations:** Annotate images with PSPDFKit for Web.
-  - **Custom UI for Annotations:** Create a fully customized UI for working with annotations.
-  - **Custom Annotation Permissions:** Define custom permissions for annotation types.
-  - **Custom Annotation Tools:** Add your own tools or actions when an annotation is selected.
-  - **Custom Toolbar Tools:** Add custom tools to the PDF toolbar.
-  - **PDF Page Manipulation:** Add, remove, reorder, or rotate pages in a PDF.
-  - **Advanced PDF Search:** Modify PDF search behavior.
-  - **Custom Overlays:** Extend PDFs by adding your own elements to pages.
-  - **Selective Area Revealing:** Allow users to hide/reveal areas on a PDF page.
-  - **HTML-Based Annotation Customization:** Enhance or replace existing PDF annotations using custom HTML.
-  - **Dark Mode:** Switch to dark mode programmatically.
-  - **Custom Views and Drag-and-Drop:** Add custom views for dragging and dropping image elements.
-  - **Document Editor Customization:** Customize the document editor toolbar and footer items.
-  - **Page Flip Effect:** Create a magazine-like browsing experience.
-  - **Permissions Enforcement:** Set permissions based on JSON Web Token (JWT) parameters.
-  - **Electronic Signatures Persistence:** Keep electronic signatures across page refreshes.
-  - [Try it online!](https://web-examples.services.demo.pspdfkit.com/)
-- [React Example](https://github.com/PSPDFKit/pspdfkit-web-example-react)
-- [Angular Example](https://github.com/PSPDFKit/pspdfkit-web-example-angular)
-- [Next.js Example](https://github.com/PSPDFKit/pspdfkit-web-example-nextjs)
+A wide variety of examples what PSPDFKit for Web can do can be found in the [Example Catalog](https://github.com/PSPDFKit/pspdfkit-web-examples-catalog) - [Try them online](https://web-examples.services.demo.pspdfkit.com/).
+- **Electronic Signatures:** Use our API to add electronic signature images to PDFs.
+- **Watermarks:** Add custom content (like images, text, and logos) as watermarks to your PDF pages.
+- **Image Annotations:** Annotate images with PSPDFKit for Web.
+- **Custom UI for Annotations:** Create a fully customized UI for working with annotations.
+- **Custom Annotation Permissions:** Define custom permissions for annotation types.
+- **Custom Annotation Tools:** Add your own tools or actions when an annotation is selected.
+- **Custom Toolbar Tools:** Add custom tools to the PDF toolbar.
+- **PDF Page Manipulation:** Add, remove, reorder, or rotate pages in a PDF.
+- **Advanced PDF Search:** Modify PDF search behavior.
+- **Custom Overlays:** Extend PDFs by adding your own elements to pages.
+- **Selective Area Revealing:** Allow users to hide/reveal areas on a PDF page.
+- **HTML-Based Annotation Customization:** Enhance or replace existing PDF annotations using custom HTML.
+- **Dark Mode:** Switch to dark mode programmatically.
+- **Custom Views and Drag-and-Drop:** Add custom views for dragging and dropping image elements.
+- **Document Editor Customization:** Customize the document editor toolbar and footer items.
+- **Page Flip Effect:** Create a magazine-like browsing experience.
+- **Permissions Enforcement:** Set permissions based on JSON Web Token (JWT) parameters.
+- **Electronic Signatures Persistence:** Keep electronic signatures across page refreshes.
+
+Other examples:
+- [React](https://github.com/PSPDFKit/pspdfkit-web-example-react)
+- [Angular](https://github.com/PSPDFKit/pspdfkit-web-example-angular)
+- [Next.js](https://github.com/PSPDFKit/pspdfkit-web-example-nextjs)
 
 ### Viewer
 - [Print Single Page](https://pspdfkit.com/playground?p=eyJ2IjoxLCJqcyI6ImNvbnN0IGl0ZW09e3R5cGU6J2N1c3RvbScsaWQ6J215LWJ1dHRvbicsdGl0bGU6J015IEJ1dHRvbicsb25QcmVzczpldmVudD0%252Be2FsZXJ0KCdoZWxsbyBmcm9tIG15IGJ1dHRvbicpfX07dmFyIGluc3RhbmNlR2xvYmFsO1BTUERGS2l0LmxvYWQoey4uLmJhc2VPcHRpb25zLHRoZW1lOlBTUERGS2l0LlRoZW1lLkRBUkssdG9vbGJhckl0ZW1zOlBTUERGS2l0LmRlZmF1bHRUb29sYmFySXRlbXMucmVkdWNlKCgoYWNjLGl0ZW0pPT4nZXhwb3J0LXBkZic9PT1pdGVtLnR5cGU%252FYWNjLmNvbmNhdChbaXRlbSx7dHlwZTonY3VzdG9tJyxpZDonUHJpbnQnLHJlc3BvbnNpdmVHcm91cDonYW5ub3RhdGUnLFxuLy9pY29uOiBcImh0dHBzOi8vc3Znc2hhcmUuY29tL2kvcTB0LnN2Z1wiLFxuc2VsZWN0ZWQ6ITEsb25QcmVzcygpe2NvbnNvbGUubG9nKCdQcmludCcpLGNvbnNvbGUubG9nKCdjdXJyZW50IHBhZ2UgJyxpbnN0YW5jZUdsb2JhbC52aWV3U3RhdGUuY3VycmVudFBhZ2VJbmRleCk7Y29uc3Qgb3BlcmF0aW9ucz1be3R5cGU6J2tlZXBQYWdlcycscGFnZUluZGV4ZXM6W2luc3RhbmNlR2xvYmFsLnZpZXdTdGF0ZS5jdXJyZW50UGFnZUluZGV4XX1dO2luc3RhbmNlR2xvYmFsLmV4cG9ydFBERldpdGhPcGVyYXRpb25zKG9wZXJhdGlvbnMpLnRoZW4oKGZ1bmN0aW9uKGJ1ZmZlcil7XG4vL2J1ZmZlcjsgLy8gPT4gQXJyYXlCdWZmZXJcbmNvbnNvbGUubG9nKGJ1ZmZlcik7XG4vLyBDb252ZXJ0IGJ1ZmZlciBpbnRvIGEgQmxvYlxuY29uc3QgYmxvYj1uZXcgQmxvYihbYnVmZmVyXSx7dHlwZTonYXBwbGljYXRpb24vcGRmJ30pLG9iamVjdFVSTD1VUkwuY3JlYXRlT2JqZWN0VVJMKGJsb2IpO1xuLy8gQ3JlYXRlIG9iamVjdCBVUkxcbi8vIENvbnZlcnQgdGhlIFBERiBCbG9iIHRvIGEgZGF0YSBVUkxcbihcbi8vIERlZmluZSB0aGUgYmxvYlRvRGF0YVVSTCBmdW5jdGlvblxuZnVuY3Rpb24oYmxvYil7cmV0dXJuIG5ldyBQcm9taXNlKCgocmVzb2x2ZSxyZWplY3QpPT57Y29uc3QgcmVhZGVyPW5ldyBGaWxlUmVhZGVyO3JlYWRlci5vbmxvYWRlbmQ9KCk9PnJlc29sdmUocmVhZGVyLnJlc3VsdCkscmVhZGVyLm9uZXJyb3I9cmVqZWN0LHJlYWRlci5yZWFkQXNEYXRhVVJMKGJsb2IpfSkpfSkoYmxvYikudGhlbigoZGF0YVVSTD0%252Be1xuLy8gTG9hZCB0aGUgUERGIGRhdGEgVVJMIGludG8gdGhlIGlmcmFtZVxuY29uc29sZS5sb2coJ25vdyBwcmludGluZycpLGNvbnNvbGUubG9nKGRvY3VtZW50KTtcbi8vIENyZWF0ZSBhbiBpZnJhbWUgYW5kIGFkZCBpdCB0byB0aGUgRE9NXG5jb25zdCBwZGZGcmFtZT1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdpZnJhbWUnKTtwZGZGcmFtZS5pZD0ncGRmLWZyYW1lJyxkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKHBkZkZyYW1lKSxcbi8vIExvYWQgdGhlIFBERiBkYXRhIFVSTCBpbnRvIHRoZSBpZnJhbWVcbnBkZkZyYW1lLnNyYz1vYmplY3RVUkwsXG4vLyBXYWl0IHVudGlsIHRoZSBpZnJhbWUgaGFzIGxvYWRlZCBpdHMgY29udGVudCBiZWZvcmUgcHJpbnRpbmdcbnBkZkZyYW1lLm9ubG9hZD1mdW5jdGlvbigpe3BkZkZyYW1lLmNvbnRlbnRXaW5kb3cucHJpbnQoKX19KSl9KSl9LHRpdGxlOidQcmludCBzaW5nbGUgcGFnZSd9XSk6YWNjLmNvbmNhdChbaXRlbV0pKSxbXSl9KS50aGVuKChpbnN0YW5jZT0%252Be2luc3RhbmNlR2xvYmFsPWluc3RhbmNlLGNvbnNvbGUubG9nKCdQU1BERktpdCBsb2FkZWQhJyksY29uc29sZS5sb2coJ0FQSSBkb2NzOiBodHRwczovL3BzcGRma2l0LmNvbS9hcGkvd2ViLycpLGNvbnNvbGUubG9nKCdHdWlkZXM6IGh0dHBzOi8vcHNwZGZraXQuY29tL2d1aWRlcy93ZWIvJyl9KSk7IiwibW9kZSI6InN0YW5kYWxvbmUiLCJzZXR0aW5ncyI6eyJmaWxlTmFtZSI6ImJhc2ljLnBkZiIsImp3dCI6eyJwZXJtaXNzaW9ucyI6WyJyZWFkLWRvY3VtZW50Iiwid3JpdGUiXSwidXNlcklkIjoicmFuZG9tR0pXMEFya2V3dSIsImxheWVyIjoicmFuZG9tS1lDOFQ5b2lrciJ9fX0%253D).
@@ -48,7 +49,6 @@ This repository contains examples built with PSPDFKit. These examples are not of
 #### Redaction
 
 - [Redact Keywords Programmatically](https://pspdfkit.com/playground?p=eyJ2IjoxLCJzZXR0aW5ncyI6eyJmaWxlTmFtZSI6InNjaWVudGlmaWMucGRmIiwiand0Ijp7InBlcm1pc3Npb25zIjpbInJlYWQtZG9jdW1lbnQiLCJ3cml0ZSJdLCJ1c2VySWQiOiJyYW5kb21sRTFRdTBjN2NUIiwibGF5ZXIiOiJyYW5kb21rUWdTNGo4SnJIIn19LCJqcyI6IlBTUERGS2l0LmxvYWQoey4uLmJhc2VPcHRpb25zLHRoZW1lOlBTUERGS2l0LlRoZW1lLkRBUkt9KS50aGVuKChhc3luYyBpbnN0YW5jZT0%252Be2NvbnN0IG5hbWVzX2xpc3Q9W3t2YWx1ZTonc3BlY2llcyAnLHRleHQ6J2FhZGVuJyxzZWFyY2hfdHlwZTondGV4dCcsaXNfYWN0aXZlOiEwfSx7dmFsdWU6J2h1bWFuJyx0ZXh0OidhYWxpeWFoJyxzZWFyY2hfdHlwZTondGV4dCcsaXNfYWN0aXZlOiEwfSx7dmFsdWU6J3BlciAnLHRleHQ6J2FhcmF2JyxzZWFyY2hfdHlwZTondGV4dCcsaXNfYWN0aXZlOiEwfSx7dmFsdWU6J2ZpcnN0ICcsdGV4dDonYWFyb24nLHNlYXJjaF90eXBlOid0ZXh0Jyxpc19hY3RpdmU6ITB9XTthd2FpdCBQcm9taXNlLmFsbChBcnJheS5mcm9tKHtsZW5ndGg6bmFtZXNfbGlzdC5sZW5ndGh9KS5tYXAoKChfLHBhZ2VJbmRleCk9Pmluc3RhbmNlLmNyZWF0ZVJlZGFjdGlvbnNCeVNlYXJjaChuYW1lc19saXN0W3BhZ2VJbmRleF0udmFsdWUse3NlYXJjaFR5cGU6J3RleHQnLHNlYXJjaEluQW5ub3RhdGlvbnM6ITF9KSkpKSxhd2FpdCBpbnN0YW5jZS5hcHBseVJlZGFjdGlvbnMoKX0pKTsiLCJtb2RlIjoic3RhbmRhbG9uZSIsImNzcyI6Ii8qIEFkZCB5b3VyIENTUyBoZXJlICovXG4ifQ%253D%253D)
-
 - [Apply redaction to all text with overlay message](https://pspdfkit.com/playground?p=eyJ2IjoxLCJzZXR0aW5ncyI6eyJmaWxlTmFtZSI6ImJhc2ljLnBkZiIsImp3dCI6eyJwZXJtaXNzaW9ucyI6WyJyZWFkLWRvY3VtZW50Iiwid3JpdGUiXSwidXNlcklkIjoicmFuZG9tbEUxUXUwYzdjVCIsImxheWVyIjoicmFuZG9ta1FnUzRqOEpySCJ9fSwianMiOiJQU1BERktpdC5sb2FkKHsuLi5iYXNlT3B0aW9ucyx0aGVtZTpQU1BERktpdC5UaGVtZS5EQVJLfSkudGhlbigoYXN5bmMgaW5zdGFuY2U9PntsZXQgcmVkYWN0aW9uQW5ub3RhdGlvbnM9KGF3YWl0IFByb21pc2UuYWxsKEFycmF5LmZyb20oe2xlbmd0aDppbnN0YW5jZS50b3RhbFBhZ2VDb3VudH0pLm1hcCgoKF8scGFnZUluZGV4KT0%252BaW5zdGFuY2UudGV4dExpbmVzRm9yUGFnZUluZGV4KHBhZ2VJbmRleCkpKSkpLmZsYXRNYXAoKHRleHRMaW5lcz0%252BdGV4dExpbmVzLnJlZHVjZSgoKGFjYyx0ZXh0TGluZSk9Pntjb25zdHtib3VuZGluZ0JveDpib3VuZGluZ0JveCxwYWdlSW5kZXg6cGFnZUluZGV4fT10ZXh0TGluZSxiYm94PW5ldyBQU1BERktpdC5HZW9tZXRyeS5SZWN0KGJvdW5kaW5nQm94KTtyZXR1cm4gYWNjLmNvbmNhdChuZXcgUFNQREZLaXQuQW5ub3RhdGlvbnMuUmVkYWN0aW9uQW5ub3RhdGlvbih7aWQ6UFNQREZLaXQuZ2VuZXJhdGVJbnN0YW50SWQoKSxwYWdlSW5kZXg6cGFnZUluZGV4LGJvdW5kaW5nQm94OmJvdW5kaW5nQm94LHJlY3RzOm5ldyBQU1BERktpdC5JbW11dGFibGUuTGlzdChbYmJveF0pLGNvbG9yOlBTUERGS2l0LkNvbG9yLk9SQU5HRSxvdmVybGF5VGV4dDonUkVEQUNURUQnfSkpfSksW10pKSk7XG4vL2NvbnNvbGUubG9nKHJlZGFjdGlvbkFubm90YXRpb25zKVxuYXdhaXQgaW5zdGFuY2UuY3JlYXRlKHJlZGFjdGlvbkFubm90YXRpb25zKX0pKTsiLCJtb2RlIjoic3RhbmRhbG9uZSIsImNzcyI6Ii8qIEFkZCB5b3VyIENTUyBoZXJlICovXG4ifQ%253D%253D)
 
 #### Comments

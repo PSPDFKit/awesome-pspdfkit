@@ -107,7 +107,7 @@ Other examples:
 
 #### Text Comparison
 
-- [Text Comparison Sample](./text-comparison-sample)
+- [Text Comparison Sample](https://https://github.com/PSPDFKit/awesome-pspdfkit/tree/master/web/Text%20Comparison)
 
 #### Viewer
 

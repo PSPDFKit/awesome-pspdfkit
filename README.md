@@ -107,7 +107,7 @@ Other examples:
 
 #### Text Comparison
 
-- [Text Comparison Sample](https://https://github.com/PSPDFKit/awesome-pspdfkit/tree/master/web/Text%20Comparison) ([Demo](https://pspdfkit-web-text-comparison-sample.vercel.app/))
+- [Text Comparison Sample](https://github.com/PSPDFKit/awesome-pspdfkit/tree/master/web/Text%20Comparison/text-comparison-sample) ([Demo](https://pspdfkit-web-text-comparison-sample.vercel.app/))
 
 #### Viewer
 

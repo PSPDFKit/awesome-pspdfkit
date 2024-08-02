@@ -69,6 +69,7 @@ Other examples:
 
 - [Set Comment Creator Name](https://pspdfkit.com/playground?p=eyJ2IjoxLCJzZXR0aW5ncyI6eyJmaWxlTmFtZSI6ImJhc2ljLnBkZiIsImp3dCI6eyJwZXJtaXNzaW9ucyI6WyJyZWFkLWRvY3VtZW50Iiwid3JpdGUiXSwidXNlcklkIjoicmFuZG9tbEUxUXUwYzdjVCIsImxheWVyIjoicmFuZG9ta1FnUzRqOEpySCJ9fSwianMiOiIvL3NldCB1c2VyIG5hbWUgZnJvbSBhIGxvZ2luIG9yIGF1dGhlbnRpY2F0aW9uXG5jb25zdCB1c2VybmFtZT0nT21hcic7UFNQREZLaXQubG9hZCh7Li4uYmFzZU9wdGlvbnMsdGhlbWU6UFNQREZLaXQuVGhlbWUuREFSSyx0b29sYmFySXRlbXM6W3t0eXBlOidjb21tZW50J31dfSkudGhlbigoaW5zdGFuY2U9PntpbnN0YW5jZS5zZXRBbm5vdGF0aW9uQ3JlYXRvck5hbWUoJ09tYXInKX0pKTsiLCJtb2RlIjoic3RhbmRhbG9uZSJ9)
 - [Link comments with Annotations](https://github.com/PSPDFKit/awesome-pspdfkit/tree/master/web/Annotation/AnnotationComments)
+- [Add status to annotation comments](https://github.com/PSPDFKit/awesome-pspdfkit/tree/master/web/Annotation/CommentStatus)
 
 #### Signing
 

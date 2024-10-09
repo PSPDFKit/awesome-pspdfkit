@@ -35,6 +35,7 @@ Other examples:
 - [React](https://github.com/PSPDFKit/pspdfkit-web-example-react)
 - [Angular](https://github.com/PSPDFKit/pspdfkit-web-example-angular)
 - [Next.js](https://github.com/PSPDFKit/pspdfkit-web-example-nextjs)
+- [Nuxt2 + Vuetify](https://github.com/PSPDFKit/pspdfkit-web-example-nuxt2-with-vuetify)
 
 #### Annotations
 
@@ -139,7 +140,7 @@ Other examples:
 - [Android Catalog](https://github.com/PSPDFKit/pspdfkit-android-catalog) - A wide variety of examples what PSPDFKit for Android can do. Clone it and play with it.
 
 ## Windows
-- [Using PSPDFKit for Web in WinUI3 app](/windows/pspdfkit-with-winui3/) - Learn how to use web SDK in WinUI3 app or any app that supports WebView2.
+- [Using PSPDFKit for Web in WinUI3 app](/windows/pspdfkit-with-winui3) - Learn how to use web SDK in WinUI3 app or any app that supports WebView2.
 
 ## Cross-Platform
 

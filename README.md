@@ -130,7 +130,10 @@ Other examples:
 ## Design System
 
 - [Baseline UI](https://baseline-ui.com/) - A set of customisable and accessible React components.
-
+- 
+## AI
+- [Document Assistant for PSPDFKit](https://github.com/PSPDFKit/ai-document-assistant-demo) - AI Document Assistant for PSPDFKit Demo showcases how to interact with PDFs using natural language commands powered by AI, integrated with PSPDFKit for Web.
+  
 ## iOS
 
 - [iOS Catalog](https://github.com/PSPDFKit/pspdfkit-ios-catalog) - A wide variety of examples what PSPDFKit for iOS can do. Clone it and play with it.
